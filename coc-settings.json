@@ -1,0 +1,51 @@
+{
+  "coc.preferences.formatOnSave": true,
+  "snippets.ultisnips.enable": false,
+  "prettier.onlyUseLocalVersion": false,
+  "json.schemaDownload.trustedDomains": {
+    "https://raw.githubusercontent.com": true,
+    "https://www.schemastore.org": true,
+    "https://opencode.ai": true,
+    "https://models.dev": true
+  },
+  "suggest.completionItemKindLabels": {
+    "text": "",
+    "method": "",
+    "function": "",
+    "constructor": "",
+    "field": "",
+    "variable": "",
+    "class": "",
+    "interface": "",
+    "module": "",
+    "property": "",
+    "unit": "",
+    "value": "",
+    "enum": "",
+    "keyword": "",
+    "snippet": "",
+    "color": "",
+    "file": "",
+    "reference": "",
+    "folder": "",
+    "enumMember": "",
+    "constant": "",
+    "struct": "",
+    "event": "",
+    "operator": "",
+    "typeParameter": "",
+    "default": ""
+  },
+  "suggest.pumFloatConfig": {
+    "border": true,
+    "rounded": true,
+    "highlight": "Normal"
+  },
+  "suggest.virtualText": false,
+  "suggest.enableFloat": false,
+  "signature.preferShownAbove": false,
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+  "diagnostic.enableMessage": "jump",
+  "suggest.snippetsSupport": false
+}
